@@ -1,3 +1,4 @@
+past_builds/
 node_modules/
 .ipynb_checkpoints
 .env
