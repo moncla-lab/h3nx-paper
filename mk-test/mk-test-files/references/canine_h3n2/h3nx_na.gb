@@ -1,0 +1,84 @@
+LOCUS       GU433347                1410 bp    cRNA    linear   VRL 23-SEP-2010
+DEFINITION  Influenza A virus (A/canine/Guangdong/1/2006(H3N2)) segment 6
+            neuraminidase (NA) gene, complete cds.
+ACCESSION   GU433347
+VERSION     GU433347.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/canine/Guangdong/1/2006(H3N2))
+  ORGANISM  Influenza A virus (A/canine/Guangdong/1/2006(H3N2))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus; Alphainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 1410)
+  AUTHORS   Li,S., Shi,Z., Jiao,P., Zhang,G., Zhong,Z., Tian,W., Long,L.P.,
+            Cai,Z., Zhu,X., Liao,M. and Wan,X.F.
+  TITLE     Avian-origin H3N2 canine influenza A viruses in Southern China
+  JOURNAL   Infect. Genet. Evol. (2010) In press
+   PUBMED   20732458
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1410)
+  AUTHORS   Li,S., Shi,Z., Jiao,P., Zhang,G., Zhong,Z., Tian,W., Cai,Z.,
+            Long,L., Zhu,X., Liao,M. and Wan,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JAN-2010) College of Veterinary Medicine, South China
+            Agricultural University, 483 Wushan Road, Tianhe District,
+            Guangzhou, Guangdong 510642, China
+COMMENT     GenBank Accession Numbers GU433345-GU433352 represent sequences
+            from the 8 segments of Influenza A virus
+            (A/canine/Guangdong/1/2006(H3N2)).
+FEATURES             Location/Qualifiers
+     source          1..1410
+                     /organism="Influenza A virus
+                     (A/canine/Guangdong/1/2006(H3N2))"
+                     /mol_type="viral cRNA"
+                     /strain="A/canine/Guangdong/1/2006"
+                     /serotype="H3N2"
+                     /host="canine"
+                     /db_xref="taxon:707154"
+                     /segment="6"
+                     /geo_loc_name="China: Guangdong"
+                     /collection_date="Jun-2006"
+     gene            1..1410
+                     /gene="NA"
+     CDS             1..1410
+                     /gene="NA"
+                     /codon_start=1
+                     /product="neuraminidase"
+                     /protein_id="ADB45180.1"
+                     /translation="MNPNQKIIAIGSVSLTIATVCFLLQIAILATTVTLHFKQNECNI
+                     PSNSQVVPCKPIIIERNITEVVYLNNTTIEKEICSVVLEYRNWSKPQCQITGFAPFSK
+                     DNSIRLSAGGDIWVTREPYVSCDPSKCYQFALGQGTTLNNKHSNGTIHDRISHRTLLM
+                     NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGDDRNATASFIYNGMLVDSIGSW
+                     SRNILRTQESECVCINGTCTVVMTDGSASGRADTRILFIREGKIVHISPLSGSAQHIE
+                     ECSCYPRYPNVRCVCRDNWKGSNRPVIDINMADYSIDSSYVCSGLVGDTPRNDDSSSS
+                     SNCRDPNNERGNPGVKGWAFDDENDVWMGRTISKDLRSGYETFKVIGGWTTANSKLQV
+                     NRQVIVDNNNWSGYSGIFSVEGKSCVNRCFYVELIRGGPQETRVWWTSNSIVVFCGTS
+                     GTYGTGSWPDGANINFMPI"
+ORIGIN      
+        1 atgaacccaa atcagaagat aatagcaata ggctctgtct ctctaaccat tgcaacagta
+       61 tgtttcctct tgcagattgc catcctagca acaactgtga cactgcactt caagcaaaat
+      121 gaatgcaaca tcccctcgaa cagtcaagta gtgccatgta aaccaatcat aatagaaagg
+      181 aacataacag aggtagtata tttgaataat actaccatag aaaaagaaat ttgttccgta
+      241 gtgctagaat acaggaactg gtcgaaaccg cagtgtcaaa ttacaggatt tgctcctttc
+      301 tccaaggaca actcaatccg actctccgct ggtggggaca tttgggtaac aagggaacct
+      361 tatgtgtcat gcgaccccag caaatgttac cagtttgcac ttgggcaggg gaccacgctg
+      421 aacaataaac actcaaacgg cacaatacat gataggatct ctcatcgaac tcttttaatg
+      481 aatgagttgg gtgttccgtt tcatttggga accaaacaag tgtgcatagc atggtccagt
+      541 tcaagttgtc acgatgggaa agcatggtta catgtttgtg tcactgggga tgatagaaat
+      601 gcgactgcca gtttcattta taatggaatg cttgttgaca gtattggttc atggtctcga
+      661 aatatcctca gaactcagga gtcagaatgc gtttgcatca atggaacttg tacagtagta
+      721 atgactgatg gaagtgcatc aggaagggct gatactagaa tactattcat cagagagggg
+      781 aaaattgtcc atattagccc attgtcaggg agtgctcaac atatagagga atgttcctgt
+      841 tatcctcgat atccaaatgt tagatgtgtt tgcagagaca attggaaggg ctctaatagg
+      901 cccgttatag atataaatat ggcagattat agcatcgatt ccagttatgt gtgttcagga
+      961 cttgttggcg acacaccaag gaatgatgat agctctagta gcagcaactg cagggatcct
+     1021 aataatgaga gagggaatcc aggagtgaaa gggtgggctt ttgatgatga gaatgacgtt
+     1081 tggatgggga ggacaatcag caaagatttg cgctcaggtt atgagacttt caaggtcatt
+     1141 ggtggctgga ccactgctaa ttccaaatta caggtcaata gacaagtcat agttgacaat
+     1201 aataactggt ctggttattc tggtattttc tccgttgaag gcaaaagctg tgttaatagg
+     1261 tgtttttatg tggagttgat aagaggaggg ccacaagaga ctagagtatg gtggacttca
+     1321 aatagcattg tcgtattttg tggtacttct ggtacctatg gaacaggctc atggcctgat
+     1381 ggggcgaata tcaacttcat gcctatataa
+//
+

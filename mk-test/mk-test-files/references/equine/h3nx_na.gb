@@ -1,0 +1,81 @@
+LOCUS       CY032295                1423 bp    cRNA    linear   VRL 01-JUN-2008
+DEFINITION  Influenza A virus (A/equine/Sao Paulo/6/1963(H3N8)) segment 6,
+            complete sequence.
+ACCESSION   CY032295
+VERSION     CY032295.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/equine/Sao Paulo/6/1963(H3N8))
+  ORGANISM  Influenza A virus (A/equine/Sao Paulo/6/1963(H3N8))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus; Alphainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 1423)
+  AUTHORS   Spiro,D., Halpin,R., Boyne,A., Bera,J., Ghedin,E., Hostetler,J.,
+            Fedorova,N., Kim,M., Zaborsky,J., Overton,L., Djuric,K.,
+            Sarmiento,M., Sitz,J., Katzel,D., Webster,R.G., Hoffmann,E.,
+            Krauss,S., Naeve,C., Bolotov,P., Bao,Y., Sanders,R., Dernovoy,D.,
+            Kiryutin,B., Lipman,D.J. and Tatusova,T.
+  TITLE     The NIAID Influenza Genome Sequencing Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1423)
+  CONSRTM   The NIAID Influenza Genome Sequencing Consortium
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUN-2008) on behalf of JCVI/St. Jude Children's
+            Research Hospital/NCBI, National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+FEATURES             Location/Qualifiers
+     source          1..1423
+                     /organism="Influenza A virus (A/equine/Sao
+                     Paulo/6/1963(H3N8))"
+                     /mol_type="viral cRNA"
+                     /strain="A/equine/Sao Paulo/6/1963"
+                     /serotype="H3N8"
+                     /host="Equine"
+                     /db_xref="taxon:500659"
+                     /segment="6"
+                     /geo_loc_name="Brazil: Sao Paulo"
+                     /collection_date="1963"
+     gene            1..1413
+                     /gene="NA"
+     CDS             1..1413
+                     /gene="NA"
+                     /codon_start=1
+                     /product="neuraminidase"
+                     /protein_id="ACD85267.1"
+                     /translation="MNPNQKIITIGSASLGLVFLNVILHVVSITVTVLVLSNNVTGPN
+                     CNGTIIREYNETVRIERITQWYNTNIIEYIERPSNEDYMSNTEPLCEAQGFAPFSKDN
+                     GIRIGSKGHVFVIREPFVSCSPLECRTFFLTQGSLLNDKHSNGTVKDRSPYRTLMSVE
+                     VGQSPNVYQARFEAVAWSATACHDGKKWMTVGVTGPDAQAVAVVHYGGVPVDVINSWA
+                     GNILRTQESSCTCIKGDCYWVMTDGPANRQAQYKIFKAKDGRIIGQTDVNFNGGHIEE
+                     CSCYPNEGKVECVCRDNWTGTNRPVLVISPDLSYTVGYLCAGIPTDTPRGEDSQFTGS
+                     CTSPLGNQGYGVKGFGFRQGNDVWAGRTISRTSRSGFEIIKIRNGWTQNSKDQIRKQV
+                     IVDNLNWSGYSGSFTLPVELTKKGCLVPCFWVEMIRGKPEEITIWTSSSSIVMCGVDH
+                     KVASWSWHDGAILPFDIDKM"
+ORIGIN      
+        1 atgaacccaa atcaaaagat aataacaatt ggatctgcat cattagggct tgtattcctc
+       61 aacgtcattc tccatgtggt cagcattaca gtaacagtac tggtcctcag taacaatgtg
+      121 acaggtccga attgcaacgg gacaatcata agggagtaca atgaaacagt gagaatagaa
+      181 agaattactc aatggtataa tactaatata atcgagtata tagagagacc ttcaaatgaa
+      241 gactacatga gcaacaccga gccactgtgt gaagcccagg gctttgcacc attttccaaa
+      301 gataatggaa tacgaattgg atcaaaaggc catgtttttg taataagaga accttttgtt
+      361 tcatgttcgc cgttagaatg tagaaccttt ttcctcacac agggctcatt acttaatgac
+      421 aagcattcca acggtacagt gaaggaccga agtccatata ggactttgat gagtgtcgaa
+      481 gtagggcaat cacctaacgt gtatcaagct aggtttgaag cggtggcatg gtcagcaaca
+      541 gcatgccatg atgggaaaaa gtggatgaca gttggagtca cagggcccga cgctcaagcc
+      601 gttgcagttg tgcactatgg aggtgttccg gttgacgtca ttaattcatg ggcagggaat
+      661 attctaagaa ctcaagaatc gtcatgcacc tgcattaaag gagactgcta ttgggtgatg
+      721 actgacggac cagcaaacag gcaagctcaa tataagatat tcaaagcaaa agatgggaga
+      781 ataattgggc agactgatgt aaatttcaat gggggacaca tagaggagtg ttcgtgttac
+      841 cccaatgaag ggaaggtgga gtgcgtatgc agggataact ggactgggac aaataggcca
+      901 gttctggtaa tatcccctga tctatcgtac acagtcggat atttgtgtgc tggcattccc
+      961 accgacactc ctagaggaga ggatagtcaa ttcacaggct catgcacaag ccctttgggg
+     1021 aatcaaggat acggtgtaaa aggtttcggg tttcgacaag ggaatgacgt gtgggccgga
+     1081 aggacaatta gtaggacctc cagatcagga ttcgaaataa taaaaatcag gaatggttgg
+     1141 acacaaaaca gtaaagacca aatccgaaag caggtgattg ttgataacct gaactggtca
+     1201 ggatatagtg gttctttcac attgccggtt gaactaacaa agaaaggatg tttagtcccc
+     1261 tgtttctggg ttgaaatgat cagaggtaaa cctgaagaga taacaatatg gacctctagc
+     1321 agctccattg tgatgtgtgg agtagatcat aaagttgcca gttggtcatg gcacgatgga
+     1381 gctattcttc cctttgacat cgataagatg tagtttacga aaa
+//
+

@@ -1,0 +1,103 @@
+LOCUS       GU433350                2274 bp    cRNA    linear   VRL 23-SEP-2010
+DEFINITION  Influenza A virus (A/canine/Guangdong/1/2006(H3N2)) segment 2
+            polymerase PB1 (PB1) gene, complete cds.
+ACCESSION   GU433350
+VERSION     GU433350.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/canine/Guangdong/1/2006(H3N2))
+  ORGANISM  Influenza A virus (A/canine/Guangdong/1/2006(H3N2))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus; Alphainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 2274)
+  AUTHORS   Li,S., Shi,Z., Jiao,P., Zhang,G., Zhong,Z., Tian,W., Long,L.P.,
+            Cai,Z., Zhu,X., Liao,M. and Wan,X.F.
+  TITLE     Avian-origin H3N2 canine influenza A viruses in Southern China
+  JOURNAL   Infect. Genet. Evol. (2010) In press
+   PUBMED   20732458
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2274)
+  AUTHORS   Li,S., Shi,Z., Jiao,P., Zhang,G., Zhong,Z., Tian,W., Cai,Z.,
+            Long,L., Zhu,X., Liao,M. and Wan,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JAN-2010) College of Veterinary Medicine, South China
+            Agricultural University, 483 Wushan Road, Tianhe District,
+            Guangzhou, Guangdong 510642, China
+COMMENT     GenBank Accession Numbers GU433345-GU433352 represent sequences
+            from the 8 segments of Influenza A virus
+            (A/canine/Guangdong/1/2006(H3N2)).
+FEATURES             Location/Qualifiers
+     source          1..2274
+                     /organism="Influenza A virus
+                     (A/canine/Guangdong/1/2006(H3N2))"
+                     /mol_type="viral cRNA"
+                     /strain="A/canine/Guangdong/1/2006"
+                     /serotype="H3N2"
+                     /host="canine"
+                     /db_xref="taxon:707154"
+                     /segment="2"
+                     /geo_loc_name="China: Guangdong"
+                     /collection_date="Jun-2006"
+     gene            1..2274
+                     /gene="PB1"
+     CDS             1..2274
+                     /gene="PB1"
+                     /codon_start=1
+                     /product="polymerase PB1"
+                     /protein_id="ADB45183.1"
+                     /translation="MDVNPTLLFLKVPAQNAISTTFPYTGDPPYSHGTGTGYTMDTVN
+                     RTHQYSEKGKWTTNTETGAPQLNPIDGPLPEDNEPSGYAQTDCVLEAMAFLEESHPGI
+                     FENSCIETMEVVQQTRVDKLTQGRQTYDWTLNRNQPAATALANTIEVFRSNGLTANES
+                     GRLIDFLKDVMESMDKEEMEITTHFQRKRRVRDNMTKKMVTQRTIGKKKQRLNKRSYL
+                     IRALTLNTMTKDAERGKLKRRAIATPGMQIRGFVYFVETLARSICEKLEQSGLPVGGN
+                     EKKAKLANVVRKMMTNSQDTELSFTITGDNTKWNENQNPRMFLAMITYITRNQPEWFR
+                     NVLSIAPIMFSNKMARLGKGYMFESKNMKLRTQIPAEMLANINLKYFNESTRKKIEKI
+                     RPLLTDGTASLSPGMMMGMFNMLSTVLGVSILNLGQKRYTKTTYWWDGLQSSDDFALI
+                     VNAPNHEGIQAGVDRFYRTCKLVGINMSKKKSYINRTGTFEFTSFFYRYGFVANFSME
+                     LPSFGVSGINESADMSIGVTVIKNNMINNDLGPATAQMALQLFIKDYRYTYRCHRGDT
+                     QIQTRRSFELKKLWEQTRSKAGLLVSDGGPNLYNIRNLHIPEVCLKWELMDKDYQGRL
+                     CNPLNPFVSHKEIESVNNAVVMPAHGPAKSMEYDAVATTHSWIPKRNRSILNTSQRGI
+                     LEDEQMYQKCCNLFEKFFPSSSYRRPVGISSMVEAMVSRAQIDARIDFESGRIKKEEF
+                     AEIVKICSTIEELRRQK"
+ORIGIN      
+        1 atggatgtca atccgacttt acttttcttg aaagtgccag cacaaaatgc tataagtact
+       61 acattccctt atactggaga tcctccatac agccatggaa cagggacagg atacaccatg
+      121 gacacagtca atagaacaca tcaatactca gagaaaggga aatggacaac aaacacagag
+      181 actggagcac cccaactcaa tccaattgat ggaccactac ccgaggataa tgagccaagt
+      241 ggatatgcac aaacagattg tgtgttggaa gcaatggctt tccttgaaga gtcccaccca
+      301 gggatctttg aaaactcatg tattgaaacg atggaagttg ttcagcaaac aagagtggac
+      361 aaattaaccc aaggtcgcca gacctatgac tggacattga atagaaacca gccggctgca
+      421 actgctttgg ccaatactat agaggtcttc agatcgaacg gtctaacagc caatgaatcg
+      481 ggaagactaa tagatttcct taaagatgta atggaatcaa tggacaaaga agagatggag
+      541 ataacaacac atttccagag aaaaagaaga gtaagggaca acatgaccaa gaaaatggtc
+      601 acacaaagga caatagggaa gaaaaagcag aggctgaaca agaggagcta cttaataaga
+      661 gcactgacat tgaacacaat gaccaaggat gcagaaagag gcaaattgaa gaggcgggca
+      721 attgcaacac ccgggatgca gatcagaggg ttcgtgtact ttgttgaaac attagcgagg
+      781 agcatctgtg agaaacttga gcagtctgga ctccctgttg gagggaatga gaagaaggct
+      841 aaattagcaa atgtcgtaag aaagatgatg actaactcac aagacacaga gctttcattt
+      901 acaattactg gagacaatac caaatggaat gagaatcaga atcctcggat gtttctggca
+      961 atgataacat acatcacaag aaaccaacct gaatggttta gaaatgtctt gagcattgcc
+     1021 cctataatgt tctcaaacaa aatggcaaga ttaggaaaag gatacatgtt cgagagtaag
+     1081 aacatgaaac tacggacaca aataccagca gaaatgcttg caaacattaa tctgaaatac
+     1141 ttcaacgaat caacaagaaa gaaaatcgag aaaataagac ctctcttaac agatggcaca
+     1201 gcctcactga gtcctggaat gatgatgggc atgttcaaca tgctgagtac agtcttagga
+     1261 gtatcaatct tgaatcttgg acaaaagagg tataccaaaa ccacatactg gtgggatgga
+     1321 ctccaatcct ccgatgattt cgccctcata gtgaatgcac caaatcatga ggggatacaa
+     1381 gcaggagtgg ataggttcta taggacctgc aaactggttg ggatcaatat gagcaaaaag
+     1441 aagtcttaca taaatcggac aggaacattt gagttcacaa gctttttcta ccgctatgga
+     1501 tttgtagcca acttcagtat ggaactgccc agctttggag tgtccgggat taacgaatcg
+     1561 gctgacatga gcattggagt tacggtgata aagaacaata tgataaacaa cgacctggga
+     1621 ccagcaacag ctcagatggc ccttcagcta ttcatcaaag actacagata cacatatcgg
+     1681 tgtcacaggg gtgatacaca aatccagaca agaagatcat tcgaactgaa gaagctgtgg
+     1741 gaacagaccc gttcaaaggc aggactgttg gtttcagatg gaggaccaaa cctatacaac
+     1801 atccggaatc tccacatccc agaggtctgc ctgaagtggg aattaatgga taaagattac
+     1861 cagggtagac tgtgtaatcc tctgaaccca tttgtcagtc ataaggaaat tgagtccgta
+     1921 aacaatgctg tggtaatgcc agctcatggc ccagccaaga gcatggaata tgatgctgtt
+     1981 gcgactacac actcatggat ccctaagagg aaccgttcca ttctcaatac cagccaaagg
+     2041 ggaattcttg aggacgaaca aatgtaccag aagtgttgca atctattcga gaaatttttc
+     2101 cctagtagtt catacaggag gccagttgga atttccagta tggtggaagc catggtgtct
+     2161 agggcccaaa ttgatgcacg aattgacttc gagtctggaa ggattaagaa agaagagttt
+     2221 gctgagatcg tgaagatctg ttccaccatt gaagagctca gacggcaaaa atag
+//
+

@@ -1,0 +1,81 @@
+LOCUS       CY009310                1431 bp    cRNA    linear   VRL 04-APR-2014
+DEFINITION  Influenza A virus (A/swine/Wisconsin/194/1980(H3N2)) neuraminidase
+            (NA) gene, complete cds.
+ACCESSION   CY009310
+VERSION     CY009310.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/swine/Wisconsin/194/1980(H3N2))
+  ORGANISM  Influenza A virus (A/swine/Wisconsin/194/1980(H3N2))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus; Alphainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 1431)
+  AUTHORS   Ghedin,E., Spiro,D., Miller,N., Zaborsky,J., Feldblyum,T.,
+            Subbu,V., Shumway,M., Sparenborg,J., Groveman,L., Halpin,R.,
+            Sitz,J., Koo,H., Salzberg,S.L., Webster,R.G., Hoffmann,E.,
+            Krauss,S., Naeve,C., Bao,Y., Bolotov,P., Dernovoy,D., Kiryutin,B.,
+            Lipman,D.J. and Tatusova,T.
+  TITLE     The NIAID Influenza Genome Sequencing Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1431)
+  CONSRTM   The NIAID Influenza Genome Sequencing Consortium
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2006) on behalf of TIGR/St. Jude Children's
+            Research Hospital/NCBI, National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+FEATURES             Location/Qualifiers
+     source          1..1431
+                     /organism="Influenza A virus
+                     (A/swine/Wisconsin/194/1980(H3N2))"
+                     /mol_type="viral cRNA"
+                     /strain="A/swine/Wisconsin/194/1980"
+                     /serotype="H3N2"
+                     /host="Swine"
+                     /db_xref="taxon:368704"
+                     /segment="6"
+                     /geo_loc_name="USA: Wisconsin"
+                     /collection_date="1980"
+     gene            4..1413
+                     /gene="NA"
+     CDS             4..1413
+                     /gene="NA"
+                     /codon_start=1
+                     /product="neuraminidase"
+                     /protein_id="ABD61252.1"
+                     /translation="MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECDS
+                     PANNQVMPCEPIIIERNITEIVYLTNTTIEKEICPKLVEYRNWSKPQCKITGFAPFSK
+                     DNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLDNKHSNDTIHDRTPHRTLLM
+                     NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCVTGYDKNATASFIYDGRLVDSIGSW
+                     SKNILRTQESECVCINGTCTVVMTDGSASERADTKILFIEEGKIVHISPLSGSAQHVE
+                     ECSCYPRYPGVRCVCRDNWKGSNRPVVDINVKDYSIASSYVCSGLVGDTPRKNDRYSS
+                     SYCRNPNNEKGNHGVKGWAFDDGNDVWMGRTISDESRSGYETFKVIGGWSTPNSKLQI
+                     NRQVIVDSDNRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTS
+                     GTYGTGSWPDGADINLMPI"
+ORIGIN      
+        1 aagatgaatc caaatcaaaa gataataaca attggctctg tctctctcac cattgcaaca
+       61 atatgcttcc tcatgcaaat tgccatcctg gtaactactg taacattgca tttcaagcaa
+      121 tatgagtgcg actcccccgc aaacaaccaa gtaatgccgt gtgaaccaat aataatagaa
+      181 aggaacataa cagagatagt gtatttgact aacaccacca tagagaaaga gatatgcccc
+      241 aaattagtgg aatacagaaa ttggtcaaag ccgcaatgta aaattacagg atttgcacct
+      301 ttttctaagg acaattcaat tcggctttct gctggtgggg acatttgggt gacgagagaa
+      361 ccttatgtgt catgcgatcc tggcaagtgt tatcaatttg cactcgggca ggggaccaca
+      421 ctagacaaca agcattcaaa tgacacaata catgatagaa cccctcatcg aaccctattg
+      481 atgaatgagt tgggtgttcc atttcatttg ggaaccaggc aagtgtgtat agcatggtcc
+      541 agctcaagtt gtcacgatgg aaaagcatgg ctgcatgttt gtgtcactgg atatgataaa
+      601 aatgcaactg ctagcttcat ttacgatggg aggcttgtag acagtattgg ttcatggtct
+      661 aaaaatatcc tcaggaccca ggagtcggaa tgcgtttgta tcaatgggac ttgtacagta
+      721 gtaatgactg atggaagtgc ttcagaaaga gctgatacta aaatactatt cattgaagag
+      781 gggaaaattg ttcatattag cccattgtca ggaagtgctc agcatgtaga ggagtgttcc
+      841 tgttatcctc gatatcctgg tgtcagatgt gtctgcagag acaactggaa aggctctaat
+      901 aggcccgtcg tagatataaa tgtgaaagat tatagcattg cttccagtta tgtgtgctca
+      961 gggcttgttg gcgacacacc cagaaaaaac gacagatata gcagtagcta ttgccggaat
+     1021 cctaacaatg agaaagggaa tcatggagtg aaaggctggg cctttgacga tggaaatgac
+     1081 gtgtggatgg gaagaacgat cagcgatgag tcacgctcag gttatgaaac tttcaaagtc
+     1141 attggtggtt ggtccacacc taattccaaa ttgcagataa ataggcaagt catagttgac
+     1201 agcgataata ggtccggtta ttctggtatt ttctctgttg agggcaaaag ctgcatcaat
+     1261 aggtgctttt atgtggagtt gataagggga agggaacagg aaactagagt ctggtggacc
+     1321 tcaaacagta ttgttgtgtt ttgtggcact tcaggtacct atgggacagg ctcatggcct
+     1381 gatggagcgg acatcaatct catgcctata taagctttcg caattttaga a
+//
+

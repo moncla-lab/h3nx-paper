@@ -1,0 +1,118 @@
+LOCUS       CY005474                2341 bp    cRNA    linear   VRL 14-MAY-2008
+DEFINITION  Influenza A virus (A/duck/Nanchang/1681/1992(H3N8)) segment 2,
+            complete sequence.
+ACCESSION   CY005474
+VERSION     CY005474.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/duck/Nanchang/1681/1992(H3N8))
+  ORGANISM  Influenza A virus (A/duck/Nanchang/1681/1992(H3N8))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus; Alphainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 2341)
+  AUTHORS   Obenauer,J.C., Denson,J., Mehta,P.K., Su,X., Mukatira,S.,
+            Finkelstein,D.B., Xu,X., Wang,J., Ma,J., Fan,Y., Rakestraw,K.M.,
+            Webster,R.G., Hoffmann,E., Krauss,S., Zheng,J., Zhang,Z. and
+            Naeve,C.W.
+  TITLE     Large-scale sequence analysis of avian influenza isolates
+  JOURNAL   Science 311 (5767), 1576-1580 (2006)
+   PUBMED   16439620
+REFERENCE   2  (bases 1 to 2341)
+  AUTHORS   Obenauer,J.C., Denson,J., Mehta,P.K., Su,X., Mukatira,S.,
+            Finkelstein,D.B., Xu,X., Wang,J., Ma,J., Fan,Y., Rakestraw,K.M.,
+            Webster,R.G., Hoffmann,E., Krauss,S., Zheng,J., Zhang,Z. and
+            Naeve,C.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-NOV-2005) Hartwell Center for Bioinformatics &
+            Biotechnology, St. Jude Children's Research Hospital, 332 North
+            Lauderdale Str., Memphis, TN 38105, USA
+FEATURES             Location/Qualifiers
+     source          1..2341
+                     /organism="Influenza A virus
+                     (A/duck/Nanchang/1681/1992(H3N8))"
+                     /mol_type="viral cRNA"
+                     /strain="A/duck/Nanchang/1681/1992"
+                     /serotype="H3N8"
+                     /host="Avian"
+                     /db_xref="taxon:352557"
+                     /segment="2"
+                     /geo_loc_name="China: Nanchang"
+                     /collection_date="01-Dec-1992"
+     primer_bind     1..14
+                     /note="PCR amplification primer sequence"
+     gene            25..2298
+                     /gene="PB1"
+     CDS             25..2298
+                     /gene="PB1"
+                     /codon_start=1
+                     /product="polymerase PB1"
+                     /protein_id="ABB88191.1"
+                     /translation="MDVNPTLLFLKVPAQNAISTTFPYTGDPPYSHGTGTGYTMDTVN
+                     RTHQYSEKGKWTTNTETGAPQLNPIDGPLPEDNEPSGYAQTDCVLEAMAFLEESHPGI
+                     FENSCLETMEVVQQTRVDKLTQGRQTYDWTLNRNQPAATALANTIEVFRSNGLTANES
+                     GRLMDFLKDVMESMDKEEMEITTHFQRKRRVRDNMTKKMVTQRTIGKKKQRLNKRSYL
+                     IRALTLNTMTKDAERGKLKRRAIATPGMQIRGFVYFVETLARSICEKLEQSGLPVGGN
+                     EKKAKLANVVRKMMTNSQDTELSFTITGDNTKWNENQNPRMFLAMITYITRNQPEWFR
+                     NVLSIAPIMFSNKMARLGKGYMFESKSMKLRTQIPAEMLANIDLKYFNESTRKKIEKI
+                     RPLLIDGTASLSPGMMMGMFNMLSTVLGVSILNLGQKRYTKTTYWWDGLQSSDDFALI
+                     VNAPNHEGIQAGVDRFYRTCKLVGINMSKKKSYINRTGTFEFTSFFYRYGFVANFSME
+                     LPSFGVSGINESADMSIGVTVIKNNMINNDLGPATAQMALQLFIKDYRYTYRCHRGDT
+                     QIQTRRSFELKKLWEQTCSKAGLLVSDGGPNLYNIRNLHIPEVCLKWELMDEDYQGRL
+                     CNPLNPFVSHKEIESVNNAVVMPAHGPAKSMEYDAVATTHSWVPKRNRSILNTSQRGI
+                     LEDEQMYQKCCNLFEKFFPSSSYRRPVGISSMVEAMVSRARIDARIDFESGRMRKEEF
+                     AEIMKICSTIEELRRQR"
+     gene            119..391
+                     /gene="PB1-F2"
+     CDS             119..391
+                     /gene="PB1-F2"
+                     /codon_start=1
+                     /product="PB1-F2 protein"
+                     /protein_id="ABB88192.1"
+                     /translation="MEQEQDTPWTQSTEHINIQRRGNGQQTQRLGHPNSIRLMDHYLR
+                     ITSRVGMHKQIVYWKQWLSLKNPTQGSLKTRVLKRWKLFSKQEWIN"
+     primer_bind     complement(2324..2341)
+                     /note="PCR amplification primer sequence"
+ORIGIN      
+        1 agcgaaagca ggcaaaccat ttgaatggat gtcaatccga ctttactttt cttgaaagtg
+       61 ccagcgcaaa atgctataag taccacattc ccttataccg gagaccctcc atacagccat
+      121 ggaacaggaa caggatacac catggacaca gtcaacagaa cacatcaata ttcagagaag
+      181 gggaaatgga caacaaacac agagactggg gcaccccaac tcaatccgat tgatggacca
+      241 ctacctgagg ataacgagcc gagtgggtat gcacaaacag attgtgtatt ggaagcaatg
+      301 gctttccttg aagaatccca cccagggatc tttgaaaact cgtgtcttga aacgatggaa
+      361 gttgttcagc aaacaagagt ggataaactg acccaaggtc gccagaccta tgactggaca
+      421 ttgaatagaa accagccggc tgcaactgct ttggccaaca ctatagaggt cttcagatcg
+      481 aacggtctaa cagccaatga atcgggaagg ctaatggatt tcctcaagga cgtgatggaa
+      541 tcaatggata aggaagagat ggaaataaca acacatttcc agagaaagag aagagtgagg
+      601 gacaacatga ccaagaaaat ggtcacacaa agaacaatag ggaagaaaaa gcaaaggctg
+      661 aacaaaagga gctacctaat aagagcactg acactgaaca caatgacaaa agatgcagaa
+      721 agaggcaaat tgaagagacg ggcaattgca acacccggaa tgcaaatcag aggattcgtg
+      781 tactttgtcg aaacactagc gagaagtatc tgtgaaaaac ttgagcaatc tggactccca
+      841 gttggaggaa atgagaagaa ggctaaattg gcaaatgttg tgagaaagat gatgactaac
+      901 tcacaagata cagagctctc ctttacaatt actggagaca acaccaaatg gaatgaaaat
+      961 cagaatcctc ggatgtttct ggcaatgata acatacatca caaggaacca acctgaatgg
+     1021 tttagaaatg tcttaagcat tgcccctata atgttctcaa acaagatggc gaggttaggg
+     1081 aaagggtaca tgttcgagag taagagcatg aagctacgga cacaaatacc agcagaaatg
+     1141 cttgcaaaca ttgacctgaa atacttcaac gaatcaacga gaaagaaaat cgagaaaata
+     1201 agacctctat taatagatgg cacagcctca ttgagtcctg gaatgatgat gggcatgttc
+     1261 aacatgctga gtacagtctt aggagtctca atcctgaatc ttgggcaaaa gaggtacacc
+     1321 aaaaccacat actggtggga cgggctccaa tcctctgatg atttcgctct catagtgaat
+     1381 gcaccgaatc atgagggaat acaagcaggg gtggataggt tctataggac ttgcaaacta
+     1441 gttgggatca atatgagcaa aaagaagtct tacataaatc ggacaggaac atttgaattc
+     1501 acaagctttt tctaccgcta tggattcgta gccaatttca gtatggagct gcccagcttt
+     1561 ggagtgtctg gaattaatga atcggctgac atgagcattg gtgttacagt gataaagaac
+     1621 aatatgataa acaacgacct tggaccagca acagctcaga tggctcttca gctattcatc
+     1681 aaggactaca gatacacata ccgatgccac aggggtgata cgcaaattca aacgaggaga
+     1741 tcattcgagt tgaagaagct gtgggagcag acctgttcaa aggcaggact gttagtttca
+     1801 gatggaggac caaacctata caatatccgg aacctccaca ttccagaggt ctgcttgaag
+     1861 tgggaattga tggatgaaga ttatcagggc aggctgtgta atcctctgaa cccatttgtc
+     1921 agtcataagg aaattgagtc cgtcaacaat gctgtggtaa tgccagctca tggtccagcc
+     1981 aagagcatgg aatatgatgc cgttgcgact acacattcat gggttcctaa gaggaaccgt
+     2041 tccattctca acaccagcca aaggggaatt cttgaggatg aacagatgta ccagaagtgc
+     2101 tgcaatttat tcgagaaatt cttccctagc agttcatatc ggaggccagt tggaatttcc
+     2161 agcatggtgg aggccatggt gtctagggcc cgaattgatg cacgaattga cttcgagtct
+     2221 ggaaggatga ggaaagaaga gtttgctgag atcatgaaga tctgttccac cattgaagag
+     2281 ctcagacggc aaagatagtg aatttagctt gtccttcatg aaaaaatgcc ttgtttctac
+     2341 t
+//
+

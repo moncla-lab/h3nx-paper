@@ -1,0 +1,79 @@
+LOCUS       CY077944                1442 bp    cRNA    linear   VRL 15-DEC-2010
+DEFINITION  Influenza A virus (A/swine/Brabant/1984(H3N2)) segment 6 sequence.
+ACCESSION   CY077944
+VERSION     CY077944.1
+KEYWORDS    .
+SOURCE      Influenza A virus (A/swine/Brabant/1984(H3N2))
+  ORGANISM  Influenza A virus (A/swine/Brabant/1984(H3N2))
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Alphainfluenzavirus; Alphainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 1442)
+  AUTHORS   Fouchier,R.
+  TITLE     unpublished
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1442)
+  AUTHORS   Fouchier,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2010) Department of Virology, Erasmus University
+            Medical Center, P.O. Box 2040, 3000CA, Rotterdam 3015GE,
+            Netherlands
+FEATURES             Location/Qualifiers
+     source          1..1442
+                     /organism="Influenza A virus (A/swine/Brabant/1984(H3N2))"
+                     /mol_type="viral cRNA"
+                     /strain="A/swine/Brabant/1984"
+                     /serotype="H3N2"
+                     /host="swine"
+                     /db_xref="taxon:936120"
+                     /segment="6"
+                     /lab_host="XMDCK2 passage(s)"
+                     /geo_loc_name="Netherlands: Brabant"
+                     /collection_date="1984"
+     misc_feature    1..1442
+                     /db_xref="IRD:CEIRS-CIP047-CIP047SwNL84.6"
+     gene            2..1411
+                     /gene="NA"
+     CDS             2..1411
+                     /gene="NA"
+                     /codon_start=1
+                     /product="neuraminidase"
+                     /protein_id="ADT79184.1"
+                     /translation="MNPNQKIITIGSVSLTIATMCFLMQIAILVTTVTLHFKQYECDS
+                     PANNQVMPCEPIIIEKNITEIVYLTNTTIEKEVCPKLVEYRNWSKPQCKITGFAPFSK
+                     DNSIRLSAGGAIWVTREPYVSCDPGKCYQFALGQGTTLDNKHSNDTIHDRTPYRTLLM
+                     NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCVTGHDKNATASFIYDGKLVDSIGSW
+                     SQNILRTQESECVCINGTCTVVMTDGSASGKADTKILFIEEGKIIHISPLSGSAQHVE
+                     ECSCYPRYPGVRCICRDNWKGSNRPVVDINVKDYSIDSSYVCSGLVGDTPRNNDRSSN
+                     SYCRNPNNERGNHGVKGWAFDDGNDIWMGRTISKDSRSGYETFKVIGGWSKPNSKLQI
+                     NRQVIVDSDNRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTS
+                     GTYGSGSWPDGADINLMPI"
+ORIGIN      
+        1 gatgaatcca aatcaaaaga taataacaat tggttctgtt tccctcacca ttgcaacaat
+       61 gtgcttcctc atgcagattg ccatcctggt aactactgta acattgcatt tcaagcaata
+      121 tgagtgcgac tcccccgcaa acaaccaagt aatgccgtgt gaaccaataa taatagagaa
+      181 gaacataaca gaaatagtgt atttgactaa taccaccata gaaaaagagg tatgccccaa
+      241 attagtggaa tacaggaatt ggtcaaagcc gcaatgtaaa atcacaggat ttgcaccttt
+      301 ttccaaggac aattcaattc ggctttctgc cggtggggcc atttgggtta cgagagaacc
+      361 ttatgtgtca tgcgatcctg gcaagtgtta tcaatttgca ctcggacaag ggaccacact
+      421 agacaacaaa cattcaaatg acacaataca cgatagaacc ccttatcgaa ccctactgat
+      481 gaatgagttg ggtgttccat ttcatttggg aaccaggcaa gtgtgtatag catggtccag
+      541 ctcaagttgt cacgatggaa aagcatggct gcatgtttgt gtcactgggc atgataaaaa
+      601 tgcaactgct agcttcattt acgacggaaa gcttgtagac agtattggtt catggtctca
+      661 aaatatcctc aggacccagg aatcagagtg cgtttgtatc aatggtactt gcacagtggt
+      721 aatgactgat ggaagtgctt caggaaaagc tgatactaaa atactattca ttgaagaagg
+      781 gaaaatcatt catattagcc cattgtcagg aagtgctcag catgtggagg agtgttcctg
+      841 ttatcctcga taccctggtg tcagatgtat ctgcagagac aactggaaag gctctaatag
+      901 gcccgtcgta gatataaatg tgaaagatta tagcattgat tccagttatg tgtgctcagg
+      961 gcttgttggc gacacaccca gaaacaacga cagatctagc aatagctatt gtcgaaatcc
+     1021 taacaatgag agagggaacc acggagtgaa aggctgggcc tttgacgatg gaaatgacat
+     1081 atggatggga agaactatca gcaaggattc acgctcaggt tacgaaacct tcaaagttat
+     1141 tggtggttgg tccaaaccca attccaaatt gcagataaat aggcaagtca tagttgacag
+     1201 cgataataga tcaggttatt ctggtatttt ctctgttgag ggcaaaagct gcatcaatag
+     1261 gtgcttttat gtggagctga taagaggaag ggaacaggaa actagagtat ggtggacttc
+     1321 aaacagtatt gttgtgtttt gtggcacttc aggtacctat gggtcaggct catggcctga
+     1381 tggggcggac atcaatctca tgcctatata agctttcgca atttcagaaa aaactccttg
+     1441 tt
+//
+
