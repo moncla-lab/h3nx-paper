@@ -1,1 +1,3 @@
 . filter=lfs diff=lfs merge=lfs -text
+treesort-analyses/randomized_tree/jsons/nonrea_clade_persistences.json filter=lfs diff=lfs merge=lfs -text
+treesort-analyses/randomized_tree/hosts.zip filter=lfs diff=lfs merge=lfs -text
