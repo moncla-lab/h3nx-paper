@@ -1,0 +1,36 @@
+name,segments,type,host switch
+A/seal/Massachusetts/3911/1992|1992-01-01,['NS'],leaf,avian --> seal
+TS_NODE_1376,['PA'],node,avian --> seal
+A/Phoca_vitulina/Alaska/PV2114/2021|2021-08-24,['NA'],leaf,avian --> seal
+A/swine/Kazakhstan/106/1985|1985-01-01,"['NA', 'NS']",leaf,avian --> swine
+A/Changsha/1000/2022|2022-05-11,['PB1'],leaf,avian --> human
+A/Felis_catus/USA/047732/2018|2018-03-27,"['MP', 'NP', 'NS', 'PA', 'PB1', 'PB2']",leaf,canine --> feline
+TS_NODE_6096,['NP'],node,avian --> human
+TS_NODE_3005,"['MP', 'NP', 'NS', 'PA', 'PB2']",node,human --> swine
+TS_NODE_3035,['NS'],node,human --> swine
+TS_NODE_3292,['NS'],node,human --> swine
+A/swine/Nagano/2000|2000-01-01,['NA'],leaf,human --> swine
+A/swine/Hong_Kong/q066/99|1999-01-01,['NA'],leaf,human --> swine
+TS_NODE_4651,['NA'],node,swine --> human
+TS_NODE_3656,"['MP', 'NP', 'NS', 'PA', 'PB2']",node,human --> swine
+TS_NODE_3921,"['MP', 'NA', 'NP', 'NS', 'PA', 'PB1', 'PB2']",node,human --> swine
+TS_NODE_3864,"['MP', 'NA', 'NP', 'PB1']",node,swine --> avian
+A/swine/Guatemala/CIP049-IP040078/2010|2010-10-07,['NA'],leaf,human --> swine
+A/swine/Zambia/51/2018|2018-09-01,['NA'],leaf,human --> swine
+TS_NODE_4109,"['MP', 'NP', 'NS', 'PA', 'PB1', 'PB2']",node,human --> swine
+TS_NODE_4192,"['MP', 'NP', 'NS', 'PA', 'PB1', 'PB2']",node,human --> swine
+A/chicken/Changzhou/c02/2013|2014-04-17,['NA'],leaf,human --> avian
+TS_NODE_4318,['NA'],node,human --> swine
+A/swine/Guatemala/MM-160/2013|2013-12-01,"['NA', 'PA']",leaf,human --> swine
+TS_NODE_4467,['NA'],node,human --> swine
+TS_NODE_4588,"['MP', 'NA', 'NP', 'NS', 'PA', 'PB2']",node,human --> swine
+TS_NODE_4619,['NS'],node,human --> swine
+TS_NODE_4665,"['MP', 'NP', 'PA', 'PB2']",node,human --> swine
+TS_NODE_4724,"['PA', 'PB1', 'PB2']",node,human --> swine
+TS_NODE_5555,"['MP', 'NA', 'NP', 'NS', 'PA', 'PB2']",node,human --> swine
+A/mink/Wisconsin/31512-7/2012|2012-08-14,['NA'],leaf,swine --> mink
+A/Iowa/08/2011|2011-11-14,['NA'],leaf,swine --> human
+TS_NODE_5601,"['MP', 'NA', 'NP', 'NS', 'PA', 'PB2']",node,human --> swine
+TS_NODE_5661,"['NA', 'NS']",node,human --> swine
+TS_NODE_6067,"['MP', 'PA', 'PB2']",node,human --> swine
+A/swine/Hong_Kong/126/1982|1982-01-01,['NS'],leaf,human --> swine

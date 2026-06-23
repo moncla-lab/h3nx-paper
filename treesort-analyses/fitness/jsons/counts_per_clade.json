@@ -1,0 +1,212 @@
+{
+  "na_avian": {
+    "0.5": {
+      "node_count": 1193,
+      "node_rea_count": 306,
+      "leaf_count": 1194,
+      "leaf_rea_count": 320,
+      "rea_fit": 172,
+      "clonal_fit": 476,
+      "rea_unfit": 112,
+      "clonal_unfit": 371
+    },
+    "2": {
+      "node_count": 1193,
+      "node_rea_count": 306,
+      "leaf_count": 1194,
+      "leaf_rea_count": 320,
+      "rea_fit": 118,
+      "clonal_fit": 366,
+      "rea_unfit": 162,
+      "clonal_unfit": 464
+    },
+    "6": {
+      "node_count": 1193,
+      "node_rea_count": 306,
+      "leaf_count": 1194,
+      "leaf_rea_count": 320,
+      "rea_fit": 54,
+      "clonal_fit": 210,
+      "rea_unfit": 181,
+      "clonal_unfit": 519
+    },
+    "10": {
+      "node_count": 1193,
+      "node_rea_count": 306,
+      "leaf_count": 1194,
+      "leaf_rea_count": 320,
+      "rea_fit": 31,
+      "clonal_fit": 144,
+      "rea_unfit": 148,
+      "clonal_unfit": 418
+    }
+  },
+  "na_avian_subsetted": {
+    "0.5": {
+      "node_count": 390,
+      "node_rea_count": 97,
+      "leaf_count": 391,
+      "leaf_rea_count": 124,
+      "rea_fit": 70,
+      "clonal_fit": 223,
+      "rea_unfit": 23,
+      "clonal_unfit": 66
+    },
+    "2": {
+      "node_count": 390,
+      "node_rea_count": 97,
+      "leaf_count": 391,
+      "leaf_rea_count": 124,
+      "rea_fit": 59,
+      "clonal_fit": 194,
+      "rea_unfit": 33,
+      "clonal_unfit": 94
+    },
+    "6": {
+      "node_count": 390,
+      "node_rea_count": 97,
+      "leaf_count": 391,
+      "leaf_rea_count": 124,
+      "rea_fit": 40,
+      "clonal_fit": 134,
+      "rea_unfit": 50,
+      "clonal_unfit": 141
+    },
+    "10": {
+      "node_count": 390,
+      "node_rea_count": 97,
+      "leaf_count": 391,
+      "leaf_rea_count": 124,
+      "rea_fit": 23,
+      "clonal_fit": 93,
+      "rea_unfit": 52,
+      "clonal_unfit": 153
+    }
+  },
+  "eurasian_avian": {
+    "0.5": {
+      "node_count": 886,
+      "node_rea_count": 198,
+      "leaf_count": 887,
+      "leaf_rea_count": 217,
+      "rea_fit": 73,
+      "clonal_fit": 275,
+      "rea_unfit": 25,
+      "clonal_unfit": 66
+    },
+    "2": {
+      "node_count": 886,
+      "node_rea_count": 198,
+      "leaf_count": 887,
+      "leaf_rea_count": 217,
+      "rea_fit": 55,
+      "clonal_fit": 221,
+      "rea_unfit": 43,
+      "clonal_unfit": 111
+    },
+    "6": {
+      "node_count": 886,
+      "node_rea_count": 198,
+      "leaf_count": 887,
+      "leaf_rea_count": 217,
+      "rea_fit": 32,
+      "clonal_fit": 152,
+      "rea_unfit": 60,
+      "clonal_unfit": 155
+    },
+    "10": {
+      "node_count": 886,
+      "node_rea_count": 198,
+      "leaf_count": 887,
+      "leaf_rea_count": 217,
+      "rea_fit": 19,
+      "clonal_fit": 96,
+      "rea_unfit": 68,
+      "clonal_unfit": 188
+    }
+  },
+  "swine": {
+    "0.5": {
+      "node_count": 2015,
+      "node_rea_count": 159,
+      "leaf_count": 2016,
+      "leaf_rea_count": 162,
+      "rea_fit": 120,
+      "clonal_fit": 1039,
+      "rea_unfit": 36,
+      "clonal_unfit": 760
+    },
+    "2": {
+      "node_count": 2015,
+      "node_rea_count": 159,
+      "leaf_count": 2016,
+      "leaf_rea_count": 162,
+      "rea_fit": 93,
+      "clonal_fit": 681,
+      "rea_unfit": 61,
+      "clonal_unfit": 1107
+    },
+    "6": {
+      "node_count": 2015,
+      "node_rea_count": 159,
+      "leaf_count": 2016,
+      "leaf_rea_count": 162,
+      "rea_fit": 42,
+      "clonal_fit": 321,
+      "rea_unfit": 88,
+      "clonal_unfit": 1265
+    },
+    "10": {
+      "node_count": 2015,
+      "node_rea_count": 159,
+      "leaf_count": 2016,
+      "leaf_rea_count": 162,
+      "rea_fit": 21,
+      "clonal_fit": 167,
+      "rea_unfit": 78,
+      "clonal_unfit": 833
+    }
+  },
+  "human": {
+    "0.5": {
+      "node_count": 1077,
+      "node_rea_count": 26,
+      "leaf_count": 1078,
+      "leaf_rea_count": 37,
+      "rea_fit": 18,
+      "clonal_fit": 650,
+      "rea_unfit": 8,
+      "clonal_unfit": 384
+    },
+    "2": {
+      "node_count": 1077,
+      "node_rea_count": 26,
+      "leaf_count": 1078,
+      "leaf_rea_count": 37,
+      "rea_fit": 10,
+      "clonal_fit": 220,
+      "rea_unfit": 14,
+      "clonal_unfit": 790
+    },
+    "6": {
+      "node_count": 1077,
+      "node_rea_count": 26,
+      "leaf_count": 1078,
+      "leaf_rea_count": 37,
+      "rea_fit": 6,
+      "clonal_fit": 172,
+      "rea_unfit": 13,
+      "clonal_unfit": 731
+    },
+    "10": {
+      "node_count": 1077,
+      "node_rea_count": 26,
+      "leaf_count": 1078,
+      "leaf_rea_count": 37,
+      "rea_fit": 6,
+      "clonal_fit": 138,
+      "rea_unfit": 13,
+      "clonal_unfit": 589
+    }
+  }
+}

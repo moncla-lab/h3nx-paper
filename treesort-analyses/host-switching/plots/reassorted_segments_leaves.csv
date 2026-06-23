@@ -1,0 +1,15 @@
+name,segments,type,host switch
+A/seal/Massachusetts/3911/1992|1992-01-01,['NS'],leaf,avian --> seal
+A/Phoca_vitulina/Alaska/PV2114/2021|2021-08-24,['NA'],leaf,avian --> seal
+A/swine/Kazakhstan/106/1985|1985-01-01,"['NA', 'NS']",leaf,avian --> swine
+A/Changsha/1000/2022|2022-05-11,['PB1'],leaf,avian --> human
+A/Felis_catus/USA/047732/2018|2018-03-27,"['MP', 'NP', 'NS', 'PA', 'PB1', 'PB2']",leaf,canine --> feline
+A/swine/Nagano/2000|2000-01-01,['NA'],leaf,human --> swine
+A/swine/Hong_Kong/q066/99|1999-01-01,['NA'],leaf,human --> swine
+A/swine/Guatemala/CIP049-IP040078/2010|2010-10-07,['NA'],leaf,human --> swine
+A/swine/Zambia/51/2018|2018-09-01,['NA'],leaf,human --> swine
+A/chicken/Changzhou/c02/2013|2014-04-17,['NA'],leaf,human --> avian
+A/swine/Guatemala/MM-160/2013|2013-12-01,"['NA', 'PA']",leaf,human --> swine
+A/mink/Wisconsin/31512-7/2012|2012-08-14,['NA'],leaf,swine --> mink
+A/Iowa/08/2011|2011-11-14,['NA'],leaf,swine --> human
+A/swine/Hong_Kong/126/1982|1982-01-01,['NS'],leaf,human --> swine
