@@ -31,8 +31,6 @@ MANIFEST
 __pycache__/
 *.py[codz]
 *$py.class
+.DS_Store
 
-.DS_Store
-.DS_Store
-treesort-analyses/randomized_tree/jsons/nonrea_clade_persistences.json
-treesort-analyses/randomized_tree/hosts.zip
+
