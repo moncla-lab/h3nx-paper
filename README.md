@@ -43,18 +43,18 @@ were sourced from NCBI and the GISAID repository. The corresponding
 acknowledgements table for all GISAID sequences can be found in this repo.
 
 ## Project Structure
-*[`global_h3nx_build`](global_h3nx_build/): contains the config and Snakefiles
+* [`global_h3nx_build`](global_h3nx_build/): contains the config and Snakefiles
 for the global H3Nx ML trees from this project. The auspice folders contains
 results JSONs that can be visualized in Nextstrain. Sequence data has been
 removed to comply with GISAID usage regulation. 
-*[`mk-test`](mk-test/): contains scripts from https://github.com/blab/adaptive-evolution and results
+* [`mk-test`](mk-test/): contains scripts from https://github.com/blab/adaptive-evolution and results
 from the the adaptive mutation analysis performed on different H3Nx host groups.
 These results are shown in figure 1.
-*[`treesort-analyses`](treesort-analyses/): contains scripts and results from
+* [`treesort-analyses`](treesort-analyses/): contains scripts and results from
 the reassortment analyses performed on different H3Nx host groups. Reassortment
 was quantified using TreeSort.
 
 ## External links
-*[`Nextstrain build`](https://nextstrain.org/groups/moncla-lab/h3nx/ha)
-*[`TreeSort pipeline`](https://github.com/moncla-lab/treesort-pipeline)
+* [`Nextstrain build`](https://nextstrain.org/groups/moncla-lab/h3nx/ha)
+* [`TreeSort pipeline`](https://github.com/moncla-lab/treesort-pipeline)
 
